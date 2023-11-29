@@ -45,7 +45,7 @@
 - attention-heads 32
 - seq-length 1024
 <p align="center">
-  <img src="imgs/train_loss2.jpg" width=400px/>
+  <img src="imgs/train_loss_2.jpg" width=400px/>
   <br/>
 </p>
 
@@ -56,7 +56,7 @@
 - attention-heads 32
 - seq-length 2048
 <p align="center">
-  <img src="imgs/train_loss3.jpg" width=400px/>
+  <img src="imgs/train_loss_3.jpg" width=400px/>
   <br/>
 </p>
 
